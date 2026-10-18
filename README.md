@@ -1,9 +1,9 @@
 # Which Energy Producers Will Still Have Energy to Sell in 2030?
 
 **MSBA 502: Analytics Programming · University of San Diego · Course Project**
-**Team:** [Partner A name], [Partner B name]
+**Team:** Austin Lucht, Dylan Brocar
 
-This repository holds everything needed to reproduce our project: the raw data, the merged dataset, the Python notebook, and the charts. This README is both the project report and the user manual.
+This repository contains the combined EIA dataset, Python analysis notebook, data-merging script, and project documentation. The README provides an overview of the business problem, analytical methods, findings, and instructions for running the analysis.
 
 ---
 
@@ -28,15 +28,15 @@ The risk: a producer can be a large exporter today and still be a poor long-term
 
 ## 2. Repository contents
 
-| File or folder | What it is |
+## 2. Repository contents
+
+| File | Description |
 |---|---|
-| `README.md` | This report and user manual |
-| `energy_supplier_analysis.ipynb` | Main notebook: cleaning, analysis and charts |
-| `Top20_Energy_Panel.csv` | Merged dataset used by the notebook (one row per country per year) |
-| `merge_raw_data.py` | Script that rebuilds `Top20_Energy_Panel.csv` from the raw files |
-| `data_raw/` | The five original downloads from EIA |
-| `figures/` | The six charts produced by the notebook |
-| `requirements.txt` | Python packages needed |
+| `README.md` | Project overview, methodology, findings, and instructions |
+| `energy_supplier_analysis.ipynb` | Main Python notebook containing data cleaning, analysis, forecasting, clustering, and visualizations |
+| `Top20_Energy_Panel.csv` | Combined dataset containing energy and economic data for 20 countries |
+| `merge_raw_data.py` | Python script used to merge the original EIA datasets |
+| `requirements.txt` | Python libraries required to run the analysis |
 
 ---
 
