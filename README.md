@@ -28,8 +28,6 @@ The risk: a producer can be a large exporter today and still be a poor long-term
 
 ## 2. Repository contents
 
-## 2. Repository contents
-
 | File | Description |
 |---|---|
 | `README.md` | Project overview, methodology, findings, and instructions |
