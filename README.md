@@ -186,7 +186,5 @@ Iraq exports a large share of its output today, but its home demand is growing 7
 
 | Team member | Contribution | Share |
 |---|---|---|
-| [Partner A] | Data collection, cleaning, new variables, validation, regression, forecast | __% |
-| [Partner B] | Clustering, reliability score, sensitivity check, charts | __% |
-
-[Add a note on tools used, including any AI assistance, as required by the course policy.]
+| Dylan Brocar | Data collection, cleaning, new variables, validation, regression, forecast
+| Austin Lucht | Clustering, reliability score, sensitivity check, charts
