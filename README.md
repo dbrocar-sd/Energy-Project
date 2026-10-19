@@ -114,15 +114,9 @@ Top 5 = "lock in long-term", bottom 5 = "diversify away", the rest = "watch". An
 
 **17 of the top 20 producers export energy; China, India and Mexico are net importers.**
 
-![Net exports 2024](figures/chart1_net_exports.png)
-
 **Home demand is catching up with production in several exporters.** Nigeria's production fell about 26% from 2015 to 2024; Algeria's home consumption nearly doubled since 2005; Mexico's lines crossed around 2015.
 
-![Production vs consumption](figures/chart2_production_vs_consumption.png)
-
 **Economic growth drives energy demand.** The regression explains 87% of the variation in energy consumption (R² = 0.874). A 1% rise in GDP goes with about a **1.24%** rise in energy use across countries, and **0.62%** within a country over time (fixed-effects model, R² = 0.995).
-
-![GDP vs consumption](figures/chart3_gdp_vs_consumption.png)
 
 **Forecast to 2030.**
 
@@ -134,8 +128,6 @@ Top 5 = "lock in long-term", bottom 5 = "diversify away", the rest = "watch". An
 | Stable exporter | Norway, Qatar, Kuwait, Australia, Iraq, Saudi Arabia, UAE, Kazakhstan, Indonesia |
 | Net importer | China, India, Mexico |
 
-![Forecast](figures/chart4_forecast.png)
-
 **Four types of producer (k-means).**
 
 | Cluster | Countries |
@@ -145,11 +137,7 @@ Top 5 = "lock in long-term", bottom 5 = "diversify away", the rest = "watch". An
 | Near-balanced producers | Brazil, Mexico, South Africa, United States |
 | Fast-growing importers | China, India |
 
-![Clusters](figures/chart5_clusters.png)
-
 **Supplier reliability ranking.** The ranking barely changes with equal weights (rank correlation 0.90).
-
-![Ranking](figures/chart6_ranking.png)
 
 ---
 
