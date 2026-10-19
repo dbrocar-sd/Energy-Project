@@ -175,10 +175,9 @@ Iraq exports a large share of its output today, but its home demand is growing 7
 - Crude oil trade data ends in 2018 for most countries (used only for validation).
 - Totals combine all fuels, so a country can export gas while importing oil.
 
-**Future work (MSBA 503)**
-- Add proved reserves and oil and gas prices from other sources
-- Use time-series forecasting (ARIMA or Prophet) instead of straight lines
-- Add bilateral trade flows to see which importers depend on which suppliers
+**Future work**
+- Add reserves and oil and gas prices from other sources
+- Use time-series forecasting instead of straight lines
 
 ---
 
@@ -188,3 +187,5 @@ Iraq exports a large share of its output today, but its home demand is growing 7
 |---|---|---|
 | Dylan Brocar | Data collection, cleaning, new variables, validation, regression, forecast
 | Austin Lucht | Clustering, reliability score, sensitivity check, charts
+
+AI assistance: We used Claude to help draft the Python code, this README, and provide guidance. We reviewed, ran, and edited all code and results ourselves.
